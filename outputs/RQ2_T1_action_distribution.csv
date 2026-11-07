@@ -1,0 +1,7 @@
+method,action,count,proportion
+binary,CLASSIFY,140,1.0
+binary,REQUEST_MISSING_INFORMATION,0,0.0
+binary,ESCALATE_FOR_LEGAL_REVIEW,0,0.0
+uncertainty_aware,CLASSIFY,30,0.2143
+uncertainty_aware,REQUEST_MISSING_INFORMATION,91,0.65
+uncertainty_aware,ESCALATE_FOR_LEGAL_REVIEW,19,0.1357

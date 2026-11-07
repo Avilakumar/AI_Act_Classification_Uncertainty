@@ -1,0 +1,15 @@
+{
+  "python": "3.13.18",
+  "platform": "Linux-6.18.55+-x86_64-with-glibc2.39",
+  "cases": 140,
+  "pairs": 70,
+  "rules": 19,
+  "decisions": 280,
+  "exhibits": 16,
+  "legal_review": "PENDING",
+  "legal_accuracy": null,
+  "input_sha256": {
+    "embedded_cases_csv": "24399b3c7bfc118a778e2f4ea97b4af1ea19f574fd19f9901d58b406328d6371",
+    "embedded_rules_csv": "7963286897d044fb53bdf5c3954345528a73c6b8939329771589e97c683f7a84"
+  }
+}

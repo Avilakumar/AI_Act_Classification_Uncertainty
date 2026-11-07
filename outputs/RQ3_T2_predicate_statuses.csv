@@ -1,0 +1,4 @@
+predicate_status,occurrences,proportion
+ABSENT_KEY,140,0.1373
+EXPLICIT_UNKNOWN,414,0.4059
+KNOWN_STIPULATED,466,0.4569

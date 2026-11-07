@@ -1,0 +1,202 @@
+[
+  {
+    "file": "RQ1_F1_pair_action_changes.pdf",
+    "bytes": 21297,
+    "sha256": "173c879136e6962677bf2bba96cbbf0cf4f696db41fbbde74cb495b63c8b478e"
+  },
+  {
+    "file": "RQ1_F1_pair_action_changes.png",
+    "bytes": 66570,
+    "sha256": "879d6108d856cb319fc331ced2f94d12c41cdc7fc3706f4c8af14f3649f0402d"
+  },
+  {
+    "file": "RQ1_F2_missing_predicate_frequency.pdf",
+    "bytes": 26920,
+    "sha256": "63bb82a96c989ea15962107180c71e7afb29e69c92d0de72c8abd79cd6abcfdc"
+  },
+  {
+    "file": "RQ1_F2_missing_predicate_frequency.png",
+    "bytes": 177641,
+    "sha256": "e660b602b431cae101bc73796783113d0cd36568547a2c2435e25a7d6fe24fde"
+  },
+  {
+    "file": "RQ1_T1_pair_action_changes.csv",
+    "bytes": 1982,
+    "sha256": "5b9fa09b56e3f9ae3c5731fc9f1909366e8c2ccc6e20950180f64ef128cb15e1"
+  },
+  {
+    "file": "RQ1_T1_pair_action_changes.tex",
+    "bytes": 3397,
+    "sha256": "d9cc1be09744b5313caa375ce21b742e9a2c8134429431324143a9bb6e066184"
+  },
+  {
+    "file": "RQ1_T2_missing_predicate_frequency.csv",
+    "bytes": 1226,
+    "sha256": "f36af43bbb72d31ac50ab7fbc88565fd9f2199b989d6bcb23eb80e855dae5dd7"
+  },
+  {
+    "file": "RQ1_T2_missing_predicate_frequency.tex",
+    "bytes": 1692,
+    "sha256": "d1260676e4f1dee737cdaf0cc4aaae14a30840658894fccc53337d0d7337997b"
+  },
+  {
+    "file": "RQ2_F1_action_distribution.pdf",
+    "bytes": 21806,
+    "sha256": "4ac19b28182fdb6667137fd524accf36911263fda75c8687ac005b5f5434b9c3"
+  },
+  {
+    "file": "RQ2_F1_action_distribution.png",
+    "bytes": 63485,
+    "sha256": "ff4c6a3c6a32ed321677863d9c4b6386cb86f821cb3ed37a1731345b78d7fc0b"
+  },
+  {
+    "file": "RQ2_F2_definitive_counts.pdf",
+    "bytes": 19680,
+    "sha256": "7276e58442c109ad8d8662b9bf5dc8b18f878ef0985290288e843c6d7dfe18b5"
+  },
+  {
+    "file": "RQ2_F2_definitive_counts.png",
+    "bytes": 61070,
+    "sha256": "a627c59d47f39f9a80612149d2dc69a35e5d021139ba2a20d7e8937a56413205"
+  },
+  {
+    "file": "RQ2_T1_action_distribution.csv",
+    "bytes": 280,
+    "sha256": "d168461bbacef8870552a6b48b4f925f2cdc1e24ae3564f56e3badefd7dc1978"
+  },
+  {
+    "file": "RQ2_T1_action_distribution.tex",
+    "bytes": 561,
+    "sha256": "ef0e795b820db93994d049033d853fb49a05b5c78e5f17e62ea28a604d00ec5d"
+  },
+  {
+    "file": "RQ2_T2_pair_transition_matrix.csv",
+    "bytes": 215,
+    "sha256": "d52b9f687bf85589a2c97a83063bfb23d0f3b9101834e68f71b51fc67f9cefc0"
+  },
+  {
+    "file": "RQ2_T2_pair_transition_matrix.tex",
+    "bytes": 465,
+    "sha256": "1c1998267e360183e12b6208f2e5247b20db619c3fdcc05c5a16045d7652e84e"
+  },
+  {
+    "file": "RQ3_F1_trace_field_presence.pdf",
+    "bytes": 19834,
+    "sha256": "42f12f6b3afe5985b97cc5591ef8671d20ff237cde528c92d83b85db7661df4f"
+  },
+  {
+    "file": "RQ3_F1_trace_field_presence.png",
+    "bytes": 78505,
+    "sha256": "86d06d922c372ebd1a23420056a061b5c3600a863c51e4e72df8586acabe6054"
+  },
+  {
+    "file": "RQ3_F2_predicate_statuses.pdf",
+    "bytes": 21739,
+    "sha256": "c997cccfddfb0eadb1edd8315cf088571a51e53d9bc670131909d7b4e91a392e"
+  },
+  {
+    "file": "RQ3_F2_predicate_statuses.png",
+    "bytes": 81969,
+    "sha256": "c6ff141a310672f31c4737089525a2254ada5fcf5310e39cb9948c73b23a0667"
+  },
+  {
+    "file": "RQ3_T1_trace_field_presence.csv",
+    "bytes": 162,
+    "sha256": "7cf06e365b6a3fb3316a435afa9866789563046b8955e74cdf53bf4648bf422b"
+  },
+  {
+    "file": "RQ3_T1_trace_field_presence.tex",
+    "bytes": 425,
+    "sha256": "fe4a9fbf059989fa5287abb530c42306ba524a5880b929716b24d77d152ab20f"
+  },
+  {
+    "file": "RQ3_T2_predicate_statuses.csv",
+    "bytes": 118,
+    "sha256": "013c740e5aad99d58e822e4c035ae6a507d0f6d411a698d2a381cf55276f08ee"
+  },
+  {
+    "file": "RQ3_T2_predicate_statuses.tex",
+    "bytes": 339,
+    "sha256": "e2688055455859ef595b8cc0df79946db20cd08301ede59a0670c9528e6905ec"
+  },
+  {
+    "file": "RQ4_F1_routing_reasons.pdf",
+    "bytes": 19891,
+    "sha256": "48cbc7be38b972c7fc9591afe9084e33e833bda30e294059035aea804b7de32f"
+  },
+  {
+    "file": "RQ4_F1_routing_reasons.png",
+    "bytes": 61453,
+    "sha256": "b6c966cb7cca63cf3234d1e006488a02719444a6b8bce8175c95a83443e0e783"
+  },
+  {
+    "file": "RQ4_F2_routing_by_rule_count.pdf",
+    "bytes": 21621,
+    "sha256": "208e16af4206b2647b860ea7bc3e90b64fa9ea36ede43b664cdc83411c1b8d4a"
+  },
+  {
+    "file": "RQ4_F2_routing_by_rule_count.png",
+    "bytes": 71928,
+    "sha256": "7931f6cc66b10ed9ffa275f9b4f1720174e8e9aa2ad479a1fad8bbb06b805dfd"
+  },
+  {
+    "file": "RQ4_T1_routing_reasons.csv",
+    "bytes": 150,
+    "sha256": "fac5c1612450ccb37c09d3092432089a8b044e724d1c4972f03005db1db1fbae"
+  },
+  {
+    "file": "RQ4_T1_routing_reasons.tex",
+    "bytes": 370,
+    "sha256": "b3d2f8d54f0ef5ea72184e4e262eaf0f0c063cbf2098a9777c4ebc40cb82d498"
+  },
+  {
+    "file": "RQ4_T2_routing_by_rule_count.csv",
+    "bytes": 221,
+    "sha256": "48a833f0f82b66ed7e584e4023a9159d8fe30f1723b7480468dbe2b6f57b9737"
+  },
+  {
+    "file": "RQ4_T2_routing_by_rule_count.tex",
+    "bytes": 476,
+    "sha256": "1d3177ae2232f7bd5cafc8b8e798c4812ed18c8c719d1cd6b4b91ba9a1c1a270"
+  },
+  {
+    "file": "all_decisions_audit.csv",
+    "bytes": 27507,
+    "sha256": "c106c2b894f4bc5867e852e6328f7b91649a81e51071c405ade0f576e7f2061f"
+  },
+  {
+    "file": "classification_outcome_definitions.json",
+    "bytes": 694,
+    "sha256": "d9b5388dac6e5c7ba72107c299ab36f741f3f2687522d3af481a6e838ceb413b"
+  },
+  {
+    "file": "controlled_pair_validation.csv",
+    "bytes": 4181,
+    "sha256": "f64b6a0bfef17f76974ed77ed36645bbeccedf33d1861fab3ac8e891fc899108"
+  },
+  {
+    "file": "draft_rule_codebook_review_template.csv",
+    "bytes": 2598,
+    "sha256": "941cdbba6aebcf166b05124254305d223366c59424a924556d9036c44a29ebbe"
+  },
+  {
+    "file": "exhibit_manifest.json",
+    "bytes": 2556,
+    "sha256": "532e1b8ef0c4c1b5368090011bc5f80621e322eacb48fe92e7ae127fdac0eb37"
+  },
+  {
+    "file": "pilot_20_cases_for_legal_review.csv",
+    "bytes": 8362,
+    "sha256": "60ab0b5c5e1592f89e254ab7ef6316b1611f908987b4c45f78f7e697387ab51f"
+  },
+  {
+    "file": "prototype_summary.json",
+    "bytes": 1114,
+    "sha256": "8af80bc46051397e28c0bc816f1659c7314e704642c233e2c7590c2e92eb7e2a"
+  },
+  {
+    "file": "reproducibility_metadata.json",
+    "bytes": 430,
+    "sha256": "1f43cb3a2441c0c4ba99b1ec4d50c1b6a6b49644741d01bf3e933db8330e3bd0"
+  }
+]

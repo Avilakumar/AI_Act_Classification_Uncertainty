@@ -1,0 +1,8 @@
+{
+  "CLASSIFY": "A provisional software decision; not a legally adjudicated classification.",
+  "NO_CANDIDATE_RULE_MATCH": "No rule in the selected draft candidate set matched; NOT a finding of non-high-risk status.",
+  "UNDETERMINED": "At least one potentially applicable candidate rule cannot be evaluated due to missing facts.",
+  "REQUEST_MISSING_INFORMATION": "A material predicate is unknown or absent; factual information is needed.",
+  "ESCALATE_FOR_LEGAL_REVIEW": "A legal ambiguity flag or an unapproved applicable candidate rule requires specialist review.",
+  "DRAFT_CANDIDATE_RULES_ONLY": "Scope limited to the experimental codebook; not a comprehensive AI Act legal assessment."
+}

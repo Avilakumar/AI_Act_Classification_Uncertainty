@@ -1,0 +1,36 @@
+{
+  "cases": 140,
+  "pairs": 70,
+  "actions": {
+    "binary:CLASSIFY": 140,
+    "uncertainty_aware:REQUEST_MISSING_INFORMATION": 91,
+    "uncertainty_aware:CLASSIFY": 30,
+    "uncertainty_aware:ESCALATE_FOR_LEGAL_REVIEW": 19
+  },
+  "classification_counts": {
+    "binary:NO_CANDIDATE_RULE_MATCH": 87,
+    "uncertainty_aware:UNDETERMINED": 70,
+    "uncertainty_aware:NO_CANDIDATE_RULE_MATCH": 30,
+    "binary:PROHIBITED_CANDIDATE": 23,
+    "uncertainty_aware:PROHIBITED_CANDIDATE": 10,
+    "binary:HIGH_RISK_CANDIDATE": 29,
+    "uncertainty_aware:HIGH_RISK_CANDIDATE": 29,
+    "binary:EXCEPTION_REVIEW": 1,
+    "uncertainty_aware:EXCEPTION_REVIEW": 1
+  },
+  "pair_action_changes": {
+    "binary": 0,
+    "uncertainty_aware": 47
+  },
+  "pair_classification_changes": {
+    "binary": 41,
+    "uncertainty_aware": 68
+  },
+  "decisions_with_structurally_complete_traces": 280,
+  "decisions": 280,
+  "individual_rule_traces": 540,
+  "legal_accuracy": null,
+  "incorrect_definitive_rate": null,
+  "specialist_review_correctness": null,
+  "warning": "Hypothetical scenarios, draft codebook, no adjudicated legal labels."
+}
